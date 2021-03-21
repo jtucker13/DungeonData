@@ -5,43 +5,8 @@ using System.Threading.Tasks;
 
 namespace DungeonData.Models
 {
-    public enum CharClass
-    { 
-        Barbarian,
-        Bard,
-        Cleric,
-        Druid,
-        Fighter,
-        Monk,
-        Paladin,
-        Ranger,
-        Rogue,
-        Sorcerer,
-        Warlock,
-        Wizard
-    }
-    public enum CharSubclass
-    {
-
-    }
-    public enum Race
-    {
-        LightfootHalfling,
-        Halfling,
-        Human,
-        Elf,
-        WoodElf,
-        HalfElf,
-        HighElf,
-        DarkElf,
-        HalfOrc,
-        Gnome,
-        RockGnome,
-        Dwarf,
-        HillDwarf,
-        Dragonborn,
-        Tiefling
-    }
+    
+    
     public enum Status
     {
         Healthy,
